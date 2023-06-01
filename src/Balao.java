@@ -2,7 +2,7 @@ public class Balao {
 
    Balao a = new Balao();
 
-   String numeroId;
-   String registroReg;
+  public String numeroId;
+  public String registroReg;
 
 }
