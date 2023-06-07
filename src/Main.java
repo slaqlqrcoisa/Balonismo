@@ -2,14 +2,16 @@ public class Main {
 public static void main(String[] args){
 }
 
-public class Pessoa{
-    String p1 = "Jubilee";
-    String p2 = "Ljubisav";
+Balao b1 = new Balao();
 
-    String cpf = null;
+String resposta = b1.voar(new Combustivel());
 
+    public String getResposta() {
+
+System.out.println(resposta);
 
 }
+
 
 
 
