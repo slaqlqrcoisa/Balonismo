@@ -5,7 +5,10 @@ public class Pessoa {
 
 public String nome;
 public String cpf;
-public String telefone;
+int telefone;
 public String endereco;
 public String numeroDeFamiliar;
+double peso;
+double tamanho;
+
 }
